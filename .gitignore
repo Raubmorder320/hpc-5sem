@@ -1,0 +1,6 @@
+openmp/bin/
+openmp/data/
+openmp/runs/
+**/core
+**/core.[0-9]*
+**/__pycache__/
