@@ -4,3 +4,5 @@ openmp/runs/
 **/core
 **/core.[0-9]*
 **/__pycache__/
+hpc-lec*.pdf
+HPC-*.pdf
